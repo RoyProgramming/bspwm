@@ -1,0 +1,6 @@
+*.log
+*.swp
+*.bak
+*.cache
+.secrets
+polybar.old/
